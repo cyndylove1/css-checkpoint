@@ -16,6 +16,10 @@ body{
 }
 .navbar{
     padding: 20px;
+    background-color: bisque;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
 }
 .navbar ul{
     display: flex;
@@ -25,7 +29,7 @@ body{
 .navbar ul li a{
     text-decoration: none;
     margin: 0 40px;
-    color: aliceblue;
+    color: #ea6a0f80;
     overflow: hidden;
     font-weight: 700;
 }
