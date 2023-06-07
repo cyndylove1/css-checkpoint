@@ -7,6 +7,7 @@ body{
     font-family: 'Roboto', sans-serif;
     
 }
+/*hero-section starts here*/
 .main{
     height: 600px;
     width: 100%;
@@ -48,6 +49,10 @@ body{
     font-weight: 700;
     font-size: 20px;
 }
+/*hero-section ends here*/
+
+
+/*about-section starts here*/
 .about{
     height: 500px;
     background: whitesmoke;
@@ -73,6 +78,9 @@ body{
     text-align: center;
     font-size: 30px;
 }
+/*hero-section ends here*/
+
+/*work-section starts here*/
 .work{
     background-color: #ea6a0f80;
     height: 420px;
@@ -85,9 +93,14 @@ body{
     font-size: 35px;
     color: #fff;
 
-}.work p{
+}
+
+.work p{
     padding: 0 30px;
 }
+/*work-section ends here*/
+
+/*resume-section starts here*/
 .resume{
     height: 500px;
     background: whitesmoke;
@@ -102,6 +115,7 @@ body{
     height: 500px;
     width: 80%;
 }
+
 .content{
     width: 50%;
     padding-right: 5%;
@@ -113,6 +127,11 @@ body{
     text-align: center;
     font-size: 30px;
 }
+/*resume-section ends here*/
+
+
+/*contact-section starts here*/
+
 .row{
     height: 400px;
     background-color: #ea6a0f80;
@@ -168,6 +187,9 @@ button:hover{
     transition: 0.5s;
 
 }
+/*contact-section ends here*/
+
+/*footer-section starts here*/
 .footer-content{
     display: flex;
     justify-content: space-around;
@@ -210,4 +232,5 @@ button:hover{
     padding-left: 20px;
 
 }
+/*footer-section ends here*/
     
