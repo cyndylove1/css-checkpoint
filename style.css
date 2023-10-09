@@ -225,12 +225,11 @@ button:hover{
     color: #ea6a0f80;
     padding: 15px 0;
 }
-.social-footer a{
+/* .social-footer a{
     text-decoration: none;
     border-radius: 50%;
-    border: 2px solid #ea6a0f80;
-    padding-left: 20px;
+    /* border: 2px solid #ea6a0f80; */
+    /* padding-left: 20px; */
 
-}
+
 /*footer-section ends here*/
-    
